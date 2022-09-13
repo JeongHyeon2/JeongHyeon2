@@ -1,10 +1,13 @@
 <div align="center">
    <h2>Hi there 👋</h2>
    
-     <div>
+   
+   <div>
      <h3>🌱 Learning 🌱</h3>
      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
    </div>
    
    <div>
@@ -13,4 +16,11 @@
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
    </div>
-  
+   
+   <h2></h2>
+   <br>
+   
+
+</div>
+
+

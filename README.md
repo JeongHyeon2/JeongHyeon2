@@ -16,7 +16,8 @@
    </div>
    <div>
       <h3> 📚 Notion 📚</h3>
-      <h3>  https://internal-paradox-509.notion.site/AndroidStudio-f9c6c28ab9374a24bbfab93abcf0f107 </h3>
+      <h3> android - https://internal-paradox-509.notion.site/AndroidStudio-f9c6c28ab9374a24bbfab93abcf0f107 </h3>
+      <h3> pyhton - https://internal-paradox-509.notion.site/Python-08f0beff194540adb2c46aaed05f4535 </h3>
    </div>
    
    <h2></h2>

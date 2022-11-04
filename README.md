@@ -14,6 +14,9 @@
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
    </div>
+   <div>
+      <h3> 📚 Notion https://internal-paradox-509.notion.site/AndroidStudio-f9c6c28ab9374a24bbfab93abcf0f107 📚</h3>
+   </div>
    
    <h2></h2>
    <br>

@@ -5,7 +5,6 @@
    <div>
      <h3>🌱 Learning 🌱</h3>
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
-      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
       <img src="https://img.shields.io/badge/NestJS-6DB33F?style=flate&logo=NestJS&logoColor=white">
        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
    </div>

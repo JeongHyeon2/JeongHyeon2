@@ -29,9 +29,7 @@
    </div>
    
    <h2></h2>
-   <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?JeongHyeon2=dkssud8150&theme=nord_dark)
-   </br>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongHyeon2&theme=nord_dark)
    
    
 

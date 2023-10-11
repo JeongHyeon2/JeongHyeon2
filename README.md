@@ -22,8 +22,8 @@
    </div>
    <div>
       <h3> 📚 Notion 📚</h3>
-      <h3> android - (https://jeonghyeon2.notion.site/Android-f9c6c28ab9374a24bbfab93abcf0f107?pvs=4) </h3>
-       <h3> FrontEnd -[https://internal-paradox-509.notion.site/e63c742f52cb4da1adabf850a49a8f5d?pvs=4](https://jeonghyeon2.notion.site/frontend-e63c742f52cb4da1adabf850a49a8f5d?pvs=4) </h3>
+      <h3> android - https://jeonghyeon2.notion.site/Android-f9c6c28ab9374a24bbfab93abcf0f107?pvs=4 </h3>
+       <h3> FrontEnd -https://jeonghyeon2.notion.site/frontend-e63c742f52cb4da1adabf850a49a8f5d?pvs=4 </h3>
       <h3> KUMOH42 - https://jeonghyeon2.notion.site/frontend-e63c742f52cb4da1adabf850a49a8f5d?pvs=4 </h3>
    </div>
    

@@ -2,8 +2,6 @@
    <h2>Hi there 👋</h2>
    <div>
      <h3>🌱 Learning 🌱</h3>
-      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
-      <img src="https://img.shields.io/badge/NestJS-6DB33F?style=flate&logo=NestJS&logoColor=white">
        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
          <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>

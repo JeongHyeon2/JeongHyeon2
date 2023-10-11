@@ -1,7 +1,5 @@
 <div align="center">
    <h2>Hi there 👋</h2>
-   
-   
    <div>
      <h3>🌱 Learning 🌱</h3>
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
@@ -27,10 +25,14 @@
       <h3> FrontEnd - https://jeonghyeon2.notion.site/frontend-e63c742f52cb4da1adabf850a49a8f5d?pvs=4 </h3>
       <h3> KUMOH42 - https://jeonghyeon2.notion.site/frontend-e63c742f52cb4da1adabf850a49a8f5d?pvs=4 </h3>
    </div>
+     </br>
+   </br>
+   </br>
    
-   <h2></h2>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongHyeon2&theme=nord_dark)
-   
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongHyeon2&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeongHyeon2&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeongHyeon2&theme=github)   
    
 
 </div>

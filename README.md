@@ -22,9 +22,9 @@
    </div>
    <div>
       <h3> 📚 Notion 📚</h3>
-      <h3> android - https://jeonghyeon2.notion.site/Android-f9c6c28ab9374a24bbfab93abcf0f107?pvs=4 </h3>
-      <h3> FrontEnd - https://jeonghyeon2.notion.site/frontend-e63c742f52cb4da1adabf850a49a8f5d?pvs=4 </h3>
-      <h3> KUMOH42 - https://jeonghyeon2.notion.site/8ee9514d139a4d2abe77da698094365b?pvs=4 </h3>
+      <a href="https://jeonghyeon2.notion.site/Android-f9c6c28ab9374a24bbfab93abcf0f107?pvs=4">   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge?logo=Android&logoColor=white"/></a>
+      <a href="- https://jeonghyeon2.notion.site/frontend-e63c742f52cb4da1adabf850a49a8f5d?pvs=4"> <img src="https://img.shields.io/badge/FrontEnd-7F52FF?style=for-the-badge?logo=kotlin&logoColor=white"> </a>
+       <a href="https://jeonghyeon2.notion.site/8ee9514d139a4d2abe77da698094365b?pvs=4">  <img src="https://img.shields.io/badge/KUMOH42-00000?style=flat-square"/> </a>
    </div>
    </br>
    </br>

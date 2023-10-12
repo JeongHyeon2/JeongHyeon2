@@ -1,7 +1,6 @@
-   
-
 <div align="center">
-   ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+   
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20JeongHyeon's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
    
    <div>
@@ -27,7 +26,7 @@
       <h3> FrontEnd - https://jeonghyeon2.notion.site/frontend-e63c742f52cb4da1adabf850a49a8f5d?pvs=4 </h3>
       <h3> KUMOH42 - https://jeonghyeon2.notion.site/8ee9514d139a4d2abe77da698094365b?pvs=4 </h3>
    </div>
-     </br>
+   </br>
    </br>
    </br>
    

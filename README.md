@@ -1,5 +1,9 @@
+   
+
 <div align="center">
-   <h2>Hi there 👋</h2>
+   ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+
+   
    <div>
      <h3>🌱 Learning 🌱</h3>
        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>

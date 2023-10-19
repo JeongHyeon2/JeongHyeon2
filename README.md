@@ -28,6 +28,7 @@
       <a href="https://jeonghyeon2.notion.site/Android-f9c6c28ab9374a24bbfab93abcf0f107?pvs=4">   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge?logo=Android&logoColor=white"/></a>
       <a href="https://jeonghyeon2.notion.site/frontend-e63c742f52cb4da1adabf850a49a8f5d?pvs=4"> <img src="https://img.shields.io/badge/FrontEnd-7F52FF?style=for-the-badge?logo=kotlin&logoColor=white"> </a>
        <a href="https://jeonghyeon2.notion.site/8ee9514d139a4d2abe77da698094365b?pvs=4">  <img src="https://img.shields.io/badge/KUMOH42-00000?style=flat-square"/> </a>
+      
    </div>
    </br>
    </br>
@@ -37,6 +38,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongHyeon2&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeongHyeon2&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeongHyeon2&theme=github)   
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnrgusrla1)](https://solved.ac/dnrgusrla1/)
    
 
 </div>

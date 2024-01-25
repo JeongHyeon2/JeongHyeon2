@@ -12,6 +12,7 @@
  <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"/>
  <img src=https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square/>
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+ <img src="https://img.shields.io/badge/jetpack%20compose-4285F4?&logo=jetpack%20compose&logoColor=white&style=flat-square"/>
 
 
 

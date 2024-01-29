@@ -13,10 +13,10 @@
  <img src=https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square/>
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
  <img src="https://img.shields.io/badge/jetpack%20compose-4285F4?&logo=jetpack%20compose&logoColor=white&style=flat-square"/>
-
-
-
-
+   </div>
+   <div>
+       <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square"/>
+      <img src ="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/>
    </div>
    
    <div>

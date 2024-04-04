@@ -1,7 +1,7 @@
 <div align="center">
    
   ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20JeongHyeon2's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-
+   김정현입니다.
    <div>
      <h3>🌱 Learning 🌱</h3>
        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>

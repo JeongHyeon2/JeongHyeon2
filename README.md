@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
                 <img src="https://img.shields.io/badge/c%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+                        <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
 
 
    </div>
@@ -35,6 +36,7 @@
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+      
       
    </div>
    <div>

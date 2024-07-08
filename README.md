@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
                 <img src="https://img.shields.io/badge/c%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-     <img src="https://img.shields.io/badge/.net-512BD4?style=flat-square&logo=.net&logoColor=white" />
                         <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
 
 

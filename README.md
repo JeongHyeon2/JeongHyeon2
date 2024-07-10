@@ -42,7 +42,7 @@
    <div>
       <h3> 📚 Links 📚</h3>
  <a href="https://velog.io/@dnrgusrla1/posts">   <img src="https://img.shields.io/badge/Velog-00000?style=flat-square"/></a>
-      <a href="https://sites.google.com/view/xrlab-kit/home?authuser=0">  <img src="https://img.shields.io/badge/XRMLab-00000?style=flat-square"/> </a>
+      <a href="https://sites.google.com/view/xrlab-kit/home?authuser=0">  <img src="https://img.shields.io/badge/XRMLab연구실-00000?style=flat-square"/> </a>
       
    </div>
    </br>

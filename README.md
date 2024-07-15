@@ -6,6 +6,13 @@
      </div>
    <div>
      <h3>🌱 Learning 🌱</h3>
+                      <img src="https://img.shields.io/badge/c%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+                        <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
+ 
+   </div>
+  
+   <div>
+        <h3>🌱  I've used 🌱</h3>
        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/-Dart-02569B?style=flat-square&logo=dart&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
@@ -16,20 +23,17 @@
  <img src=https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square/>
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
  <img src="https://img.shields.io/badge/jetpack%20compose-4285F4?&logo=jetpack%20compose&logoColor=white&style=flat-square"/>
- 
    </div>
-   <div>
+    <div>
        <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square"/>
       <img src ="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/>
                      <img src="https://img.shields.io/badge/HTML-FFA500?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-                <img src="https://img.shields.io/badge/c%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-                        <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
+
 
 
    </div>
-   
    <div>
       <h3>📚 Stacks 📚</h3>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>

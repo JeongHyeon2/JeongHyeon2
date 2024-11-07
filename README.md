@@ -8,6 +8,7 @@
      <h3>🌱 Learning 🌱</h3>
                       <img src="https://img.shields.io/badge/c%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
                         <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
+                     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
  
    </div>
   

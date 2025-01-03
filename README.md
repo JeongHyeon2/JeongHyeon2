@@ -23,6 +23,7 @@
  <img src="https://img.shields.io/badge/jetpack%20compose-4285F4?&logo=jetpack%20compose&logoColor=white&style=flat-square"/>
    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/>
 
    
       

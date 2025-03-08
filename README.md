@@ -55,7 +55,7 @@
   <br/>
 
   ## 📚 Publications
-  - **Kim Jeonghyeon**, Jung-Hoon Ahn, and Youngwon Kim. ["Immersive Interaction for Inclusive Virtual Reality Navigation: Enhancing Accessibility for Socially Underprivileged Users."](https://doi.org/10.3390/electronics14051046) *Electronics* 14.5 (2025): 1046.
+  - **Jeonghyeon Kim**, Jung-Hoon Ahn, and Youngwon Kim. ["Immersive Interaction for Inclusive Virtual Reality Navigation: Enhancing Accessibility for Socially Underprivileged Users."](https://doi.org/10.3390/electronics14051046) *Electronics* 14.5 (2025): 1046.
    <br/>
 
 

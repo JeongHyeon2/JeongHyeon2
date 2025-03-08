@@ -5,8 +5,8 @@
   <br/>
 
   ## 👋 About Me  
-  **김정현입니다.** <br>
-  XR & Metaverse Lab | Software Engineering @ Kumoh National Institute of Technology
+  **I am Jeonghyeon (김정현), Department of Computer Software Engineering student at Kumoh National Institute of Technology. My current research interests are Gaze Tracking and Multimodal Interaction.** <br>
+  Extended Reality & Metaverse Lab | Software Engineering @ Kumoh National Institute of Technology
   
   <br/>
 

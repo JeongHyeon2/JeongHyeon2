@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/Velog-00000?style=flat-square"/>
   </a>
   <a href="https://sites.google.com/view/xrlab-kit/home?authuser=0">
-    <img src="https://img.shields.io/badge/XRMLab연구실-00000?style=flat-square"/>
+    <img src="https://img.shields.io/badge/XRMLab-00000?style=flat-square"/>
   </a>
     <a href="https://scholar.google.co.kr/citations?user=k_uM_U0AAAAJ">
     <img src="https://img.shields.io/badge/Google Scholar-00000?style=flat-square"/>

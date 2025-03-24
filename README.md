@@ -5,7 +5,7 @@
   <br/>
 
   ## 👋 About Me  
-  **I am Jeonghyeon (김정현), Department of Computer Software Engineering student at Kumoh National Institute of Technology. My current research interests are Gaze Tracking and Multimodal Interaction.** <br>
+  **I am Jeonghyeon Kim (김정현), Department of Computer Software Engineering student at Kumoh National Institute of Technology. My current research interests are Gaze Tracking and Multimodal Interaction.** <br>
   Extended Reality & Metaverse Lab | Software Engineering @ Kumoh National Institute of Technology
   
   <br/>
@@ -56,13 +56,12 @@
 
   ## 📚 Publications
   - **Jeonghyeon Kim**, Jung-Hoon Ahn, and Youngwon Kim. ["Immersive Interaction for Inclusive Virtual Reality Navigation: Enhancing Accessibility for Socially Underprivileged Users."](https://doi.org/10.3390/electronics14051046) *Electronics* 14.5 (2025): 1046.
+
    <br/>
 
 
   ## 🔗 Links  
-  <a href="https://velog.io/@dnrgusrla1/posts">
-    <img src="https://img.shields.io/badge/Velog-00000?style=flat-square"/>
-  </a>
+
   <a href="https://sites.google.com/view/xrlab-kit/home?authuser=0">
     <img src="https://img.shields.io/badge/XRMLab-00000?style=flat-square"/>
   </a>

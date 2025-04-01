@@ -76,7 +76,9 @@
   <a href="mailto:3575253@gmail.com">
     <img src="https://img.shields.io/badge/Email-3575253@gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
   </a>
-
+ <a href="mailto:dnrgusrla1@kumoh.ac.kr">
+    <img src="https://img.shields.io/badge/Email-dnrgusrla1@kumoh.ac.kr-blue?style=flat-square&logo=gmail" alt="Email">
+  </a>
   <br/><br/>
 
   ## 📊 GitHub Stats  

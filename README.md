@@ -55,6 +55,8 @@
   <br/>
 
   ## 📚 Publications
+- **Jeonghyeon Kim**,Jemin Lee, Jung-Hoon Ahn, and Youngwon Kim. ["ITap: Index Finger Tap Interaction by Gaze and Tabletop Integration"](https://www.mdpi.com/1424-8220/25/9/2833) *Sensors* 25.9 (2025): 2833.
+
   - **Jeonghyeon Kim**, Jung-Hoon Ahn, and Youngwon Kim. ["Immersive Interaction for Inclusive Virtual Reality Navigation: Enhancing Accessibility for Socially Underprivileged Users."](https://doi.org/10.3390/electronics14051046) *Electronics* 14.5 (2025): 1046.
 
    <br/>

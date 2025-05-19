@@ -5,7 +5,7 @@
   <br/>
 
   ## 👋 About Me  
-  **I am Jeonghyeon Kim (김정현), Department of Computer Software Engineering student at Kumoh National Institute of Technology. My current research interests are Gaze Tracking and Multimodal Interaction.** <br>
+  **I am Jeonghyeon Kim (김정현), Department of Computer Software Engineering student at Kumoh National Institute of Technology. My current research interests are interaction techniques in collaborative environments and multimodal interaction.** <br>
   Extended Reality & Metaverse Lab | Software Engineering @ Kumoh National Institute of Technology
   
   <br/>

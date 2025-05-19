@@ -65,12 +65,15 @@
 
   ## 🔗 Links  
 
-  <a href="https://sites.google.com/view/xrlab-kit/home?authuser=0">
-    <img src="https://img.shields.io/badge/XRMLab-00000?style=flat-square"/>
+<p align="center">
+  <a href="https://sites.google.com/view/xrlab-kit/home?authuser=0" target="_blank">
+    <img src="https://img.shields.io/badge/Extended%20Reality%20%26%20Metaverse%20Lab-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="XR Lab">
   </a>
-    <a href="https://scholar.google.co.kr/citations?user=k_uM_U0AAAAJ">
-    <img src="https://img.shields.io/badge/Google Scholar-00000?style=flat-square"/>
+  <a href="https://scholar.google.co.kr/citations?user=k_uM_U0AAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
   </a>
+</p>
+
   
 
   <br/>

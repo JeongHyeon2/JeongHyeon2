@@ -55,6 +55,8 @@
   <br/>
 
   ## 📚 Publications
+  https://n.news.naver.com/article/088/0000963087?sid=102
+  
 - **Jeonghyeon Kim**, Jemin Lee, Jung-Hoon Ahn, and Youngwon Kim. ["ITap: Index Finger Tap Interaction by Gaze and Tabletop Integration."](https://www.mdpi.com/1424-8220/25/9/2833) *Sensors* 25.9 (2025): 2833.
 -   Jemin Lee, **Jeonghyeon Kim**, and Youngwon Kim. ["A Head-Driven Algorithm for Estimating Upper and Lower Body Motion in Virtual Reality Environments."](https://ieeexplore.ieee.org/document/10979843)) *IEEE Access* vol. 13, pp. 76627-76637, 2025
 

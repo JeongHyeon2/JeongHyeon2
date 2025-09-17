@@ -13,8 +13,8 @@
 
   ## 📌 Quick Facts
   • **Education**  
-   2025.09 – Present | M.S. in Software Engineering, Integrated B.S./M.S. Program, KIT  
-   2020.03 – Present | B.S. in Computer Software Engineering, KIT  
+   2025.09 – Present | M.S. in Software Engineering, Integrated B.S./M.S. Program, Kumoh National Institute of Technology.<br/>
+   2020.03 – Present | B.S. in Computer Software Engineering, Kumoh National Institute of Technology.
 
   • **GPA** 4.31 / 4.5 (Summa Cum Laude)  
   • **Languages** Korean, English

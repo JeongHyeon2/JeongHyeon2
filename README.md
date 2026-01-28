@@ -70,14 +70,7 @@
   - 2024.07.22 – Large-Scale AI-based defense product design and maintenance service demonstration project  
    (초거대 AI 기반 방산품 설계 유지보수 서비스 실증 사업)
 
-  <br/><br/>
 
-  ## 🏅 Awards & Honors
-  - 국회의원 표창 (2025.08)  
-  - AI 캡스톤디자인 경진대회 우수상 (2024.12)  
-  - 한국디지털콘텐츠학회 대학생논문경진대회 (2024.11)
-
-  <br/><br/>
 
   ## 🔗 Links
   <p align="center">

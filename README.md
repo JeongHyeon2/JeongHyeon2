@@ -7,7 +7,7 @@
   ## 👋 About Me
   **I am Jeonghyeon Kim (김정현), Computer Software Engineering student at Kumoh National Institute of Technology.**  
   **Research interests:** interaction techniques in collaborative environments, multimodal interaction  
-  Extended Reality & Metaverse Lab | Software Engineering @ Kumoh National Institute of Technology
+  Human-Centered AX Lab | Software Engineering @ Kumoh National Institute Feof Technology
 
   <br/><br/>
 

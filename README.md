@@ -5,7 +5,7 @@
   <br/><br/>
 
   ## 👋 About Me
-  **I am Jeonghyeon Kim (김정현), Department of Computer Software Engineering student at Kumoh National Institute of Technology.**  
+  **I am Jeonghyeon Kim (김정현), Computer Software Engineering student at Kumoh National Institute of Technology.**  
   **Research interests:** interaction techniques in collaborative environments, multimodal interaction  
   Extended Reality & Metaverse Lab | Software Engineering @ Kumoh National Institute of Technology
 
@@ -74,8 +74,8 @@
 
   ## 🔗 Links
   <p align="center">
-    <a href="https://sites.google.com/view/xrlab-kit/home?authuser=0" target="_blank">
-      <img src="https://img.shields.io/badge/Extended%20Reality%20%26%20Metaverse%20Lab-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="XR Lab">
+    <a href="https://sites.google.com/view/hax-kit" target="_blank">
+      <img src="https://img.shields.io/badge/Extended%20Reality%20%26%20Metaverse%20Lab-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HAX Lab">
     </a>
     <a href="https://scholar.google.co.kr/citations?user=k_uM_U0AAAAJ" target="_blank">
       <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">

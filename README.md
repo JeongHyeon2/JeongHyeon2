@@ -58,23 +58,11 @@
 
   <br/><br/>
 
-  ## 🧪 Ongoing Projects
-  - 2025.05.07 – Automated Reconstruction of Fire Scenes and VR-based Immersive Investigation Technology  
-   (화재현장 자동 재구성 및 VR 기반 실감형 수사기술 연구)  
-  - 2025.03.30 – Development of a Traffic Accident Video Analysis System  
-   (교통사고 영상 분석 시스템 개발)  
-  - 2025.01.01 – Research on ICT Technology Discovery Linked to Digital Twin  
-   (디지털트윈 연계 ICT 기술발굴 연구)  
-  - 2024.07.22 – Large-Scale AI-based industry-academia-research cooperation ecosystem  
-   (초거대 AI 기반 산학연 협업 생태계 구축 사업)  
-  - 2024.07.22 – Large-Scale AI-based defense product design and maintenance service demonstration project  
-   (초거대 AI 기반 방산품 설계 유지보수 서비스 실증 사업)
-
 
 
   ## 🔗 Links
   <p align="center">
-    <a href="https://sites.google.com/view/hax-kit" target="_blank">
+    <a href="https://haxlab-kit.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/Extended%20Reality%20%26%20Metaverse%20Lab-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HAX Lab">
     </a>
     <a href="https://scholar.google.co.kr/citations?user=k_uM_U0AAAAJ" target="_blank">

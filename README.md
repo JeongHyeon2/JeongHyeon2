@@ -63,7 +63,7 @@
   ## 🔗 Links
   <p align="center">
     <a href="https://haxlab-kit.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Extended%20Reality%20%26%20Metaverse%20Lab-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HAX Lab">
+      <img src="https://img.shields.io/badge/HAX%20Lab-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HAX Lab">
     </a>
     <a href="https://scholar.google.co.kr/citations?user=k_uM_U0AAAAJ" target="_blank">
       <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">

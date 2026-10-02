@@ -82,10 +82,4 @@
 
   <br/>
 
-  <div align="center">
-    <a href="https://solved.ac/dnrgusrla1/">
-      <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dnrgusrla1" height="150"/>
-    </a>
-  </div>
-
 </div>
